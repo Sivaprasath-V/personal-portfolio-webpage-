@@ -1,0 +1,1 @@
+Place the image file into the directory where your HTML and CSS files are stored. Next, locate the line in the HTML code that references the image, and update the `src` attribute to reflect the correct name of the image file. Once this is done, you can properly use the image within your HTML structure.
